@@ -1,8 +1,8 @@
 /* ============================== Tipos primitivos ================================== */ 
 
 // Numeros 
-40   
-3.14
+27
+7.7 
 
  
  // Strings (cadenas de texto), Esto es la forma en la que puedo crear algo que se pueda imprimir en la pantalla, 
