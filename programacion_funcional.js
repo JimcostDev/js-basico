@@ -28,3 +28,8 @@ const doubles = numbers.map(function(number) {
   return number * 2;
 });
 console.log(doubles); // [2, 4, 6, 8, 10]
+
+// OTRO EJEMPLO
+const arr = [1, 2, 3, 4, 5]; 
+const result = arr.map(num => num * 2).filter(num => num > 5); 
+console.log(result);
